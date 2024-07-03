@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravirm076" alt="ravirm076" /></a> </p>
 
-- 🔭 I’m currently working on [deliberAIde](https://initialapp-q5u3wa4tma-uc.a.run.app)
+- 🔭 I’m currently working at Shiso Burger GmbH
 
 - 📫 How to reach me **ravirm076@gmail.com**
 
